@@ -1,10 +1,4 @@
----
-title: Latex Beginners
-# Optional header image (relative to `static/img/` folder).
-# header:
-#   caption: ""
-#   image: ""
----
+
 
 # Latex-Tips
 
