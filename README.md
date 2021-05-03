@@ -1,3 +1,13 @@
+---
+title: 
+layout: docs  # Do not modify.
+
+# Optional header image (relative to `static/img/` folder).
+# header:
+#   caption: ""
+#   image: ""
+---
+
 # Latex-Tips
 
 Hi! This repo is just a brief guide for beginners in $\LaTeX$. I hope you enjoy it. I am sharing the link to the [overleaf](https://www.overleaf.com/read/rrdfvjbpfyrq
